@@ -1,0 +1,13 @@
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\bin\Debug\netcoreapp3.1\PROJEKT.exe
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\bin\Debug\netcoreapp3.1\PROJEKT.deps.json
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\bin\Debug\netcoreapp3.1\PROJEKT.runtimeconfig.json
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\bin\Debug\netcoreapp3.1\PROJEKT.runtimeconfig.dev.json
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\bin\Debug\netcoreapp3.1\PROJEKT.dll
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\bin\Debug\netcoreapp3.1\PROJEKT.pdb
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\obj\Debug\netcoreapp3.1\PROJEKT.csprojAssemblyReference.cache
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\obj\Debug\netcoreapp3.1\PROJEKT.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\obj\Debug\netcoreapp3.1\PROJEKT.AssemblyInfo.cs
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\obj\Debug\netcoreapp3.1\PROJEKT.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\obj\Debug\netcoreapp3.1\PROJEKT.dll
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\obj\Debug\netcoreapp3.1\PROJEKT.pdb
+C:\Users\a\Desktop\Stuff\Studia\Programowanie strukturalne i obiektowe (laboratorium)\PROJEKT\PROJEKT\obj\Debug\netcoreapp3.1\PROJEKT.genruntimeconfig.cache
